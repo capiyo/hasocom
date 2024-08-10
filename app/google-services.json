@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834869160504",
+    "project_id": "hasocom-908c3",
+    "storage_bucket": "hasocom-908c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834869160504:android:0c73424b2e8a9b863514cd",
+        "android_client_info": {
+          "package_name": "ke.co.capiyo.hasocom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdns5dT294nmf37T6p7DgvggDlO7tqWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
